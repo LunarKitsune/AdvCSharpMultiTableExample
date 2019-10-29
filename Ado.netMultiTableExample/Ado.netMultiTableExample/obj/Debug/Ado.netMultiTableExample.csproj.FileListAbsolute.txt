@@ -1,0 +1,12 @@
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\bin\Debug\Pubs.mdf
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\bin\Debug\Pubs_log.ldf
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\bin\Debug\Ado.netMultiTableExample.exe.config
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\bin\Debug\Ado.netMultiTableExample.exe
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\bin\Debug\Ado.netMultiTableExample.pdb
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\obj\Debug\Ado.netMultiTableExample.csprojAssemblyReference.cache
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\obj\Debug\Ado.netMultiTableExample.Form1.resources
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\obj\Debug\Ado.netMultiTableExample.Properties.Resources.resources
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\obj\Debug\Ado.netMultiTableExample.csproj.GenerateResource.cache
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\obj\Debug\Ado.netMultiTableExample.csproj.CoreCompileInputs.cache
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\obj\Debug\Ado.netMultiTableExample.exe
+C:\Users\kmacneal\source\repos\Ado.netMultiTableExample\Ado.netMultiTableExample\obj\Debug\Ado.netMultiTableExample.pdb
